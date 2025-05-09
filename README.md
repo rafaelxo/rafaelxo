@@ -25,8 +25,6 @@ Sou um entusiasta de tecnologia e programação, atualmente cursando o 1º perí
 
 Estou familiarizado com as seguintes linguagens e ferramentas:
 
----
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Rafael-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
@@ -36,11 +34,11 @@ Estou familiarizado com as seguintes linguagens e ferramentas:
   <img align="center" alt="Rafael-JSON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg">
 </div>
 
+---
+
 ## 📬 Conecte-se comigo
 
 Fique à vontade para me contatar ou acompanhar meu trabalho nas redes sociais abaixo. Vamos colaborar em projetos incríveis! 😊
-
----
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faelxg)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelxo2007@gmail.com)
