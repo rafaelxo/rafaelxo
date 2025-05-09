@@ -12,6 +12,8 @@ Sou um entusiasta de tecnologia e programação, atualmente cursando o 1º perí
 📕 Idiomas: Português (nativo) e Inglês (fluente).
 💡 Interesses: Desenvolvimento web, machine learning e novos desafios em programação.
 
+---
+
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center" style="display: flex; gap: 20px;">
@@ -20,6 +22,8 @@ Sou um entusiasta de tecnologia e programação, atualmente cursando o 1º perí
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&langs_count=6&theme=radical&hide=procfile"/>
   </a>
 </div>
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
