@@ -1,15 +1,16 @@
-# 👋 Bem-vindo(a) ao meu perfil! Eu sou Rafael Xavier Oliveira
+# 👋 Olá! Eu sou Rafael Xavier Oliveira
 
-Sou um estudante apaixonado por tecnologia e programação, atualmente cursando o **1º período de Ciência da Computação na PUC-MG**. Estou em busca de oportunidades para crescer, aprender e contribuir em projetos inovadores. 🚀
+Sou um entusiasta de tecnologia e programação, atualmente cursando o 1º período de Ciência da Computação na PUC-MG. Estou animado para explorar o mundo da programação e em busca de um estágio onde eu possa aprender, crescer e contribuir para projetos inovadores que façam a diferença. 🚀
 
 ---
 
-## 🌟 Sobre mim
+## Sobre mim
 
-- 🔭 **Estudante** de Ciência da Computação (1º período) na **PUC-MG**.
-- 🌱 **Estudando**: **Java**, **PHP** e **Python**.
-- 👯 **Em busca de**: Um **estágio** onde eu possa aprender, evoluir e agregar valor a projetos de tecnologia.
-- 📕 **Idiomas**: **Português** (nativo) e **Inglês** (fluente).
+🔭 Estudante de Ciência da Computação (1º período) na PUC-MG.
+🌱 Estudando: Java, PHP e Python.
+👯 Em busca de: Um estágio para evoluir e agregar valor a projetos de tecnologia.
+📕 Idiomas: Português (nativo) e Inglês (fluente).
+💡 Interesses: Desenvolvimento web, machine learning e novos desafios em programação.
 
 ## 📊 Minhas estatísticas no GitHub
 
@@ -22,6 +23,10 @@ Sou um estudante apaixonado por tecnologia e programação, atualmente cursando 
 
 ## 🛠️ Tecnologias e Ferramentas
 
+Estou familiarizado com as seguintes linguagens e ferramentas:
+
+---
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Rafael-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
@@ -32,6 +37,10 @@ Sou um estudante apaixonado por tecnologia e programação, atualmente cursando 
 </div>
 
 ## 📬 Conecte-se comigo
+
+Fique à vontade para me contatar ou acompanhar meu trabalho nas redes sociais abaixo. Vamos colaborar em projetos incríveis! 😊
+
+---
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faelxg)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelxo2007@gmail.com)
