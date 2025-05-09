@@ -11,12 +11,6 @@ Sou um estudante apaixonado por tecnologia e programação, atualmente cursando 
 - 👯 **Em busca de**: Um **estágio** onde eu possa aprender, evoluir e agregar valor a projetos de tecnologia.
 - 📕 **Idiomas**: **Português** (nativo) e **Inglês** (fluente).
 
-```markdown
-- 🔭 Atualmente eu curso o 1º período de CiC na PUC-MG.
-- 🌱 Estou estudando agora JAVA, PHP e Python.
-- 👯 Estou a procura de um estágio onde possa aprender e evoluir junto com o projeto da empresa.
-- 📕 Português e inglês fluente.
-
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center" style="display: flex; gap: 20px;">
