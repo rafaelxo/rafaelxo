@@ -6,11 +6,11 @@ Sou um entusiasta de tecnologia e programação, atualmente cursando o 1º perí
 
 ## Sobre mim
 
-🔭 Estudante de Ciência da Computação (1º período) na PUC-MG.
-🌱 Estudando: Java, PHP e Python.
-👯 Em busca de: Um estágio para evoluir e agregar valor a projetos de tecnologia.
-📕 Idiomas: Português (nativo) e Inglês (fluente).
-💡 Interesses: Desenvolvimento web, machine learning e novos desafios em programação.
+🔭 Estudante de Ciência da Computação (1º período) na PUC-MG. <br>
+🌱 Estudando: Java, PHP e Python. <br>
+👯 Em busca de: Um estágio para evoluir e agregar valor a projetos de tecnologia. <br>
+📕 Idiomas: Português (nativo) e Inglês (fluente). <br>
+💡 Interesses: Desenvolvimento web, machine learning e novos desafios em programação. <br>
 
 ---
 
