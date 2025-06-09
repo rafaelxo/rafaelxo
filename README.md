@@ -1,14 +1,13 @@
-# 👋 Olá! Eu sou Rafael Xavier Oliveira
+# 👋 Olá! Sou Rafael Xavier Oliveira:
 
-Sou um entusiasta de tecnologia e programação, atualmente cursando o 1º período de Ciência da Computação na PUC-MG. Estou animado para explorar o mundo da programação e em busca de um estágio onde eu possa aprender, crescer e contribuir para projetos inovadores que façam a diferença. 🚀
+um entusiasta de tecnologia e programação, atualmente cursando o 1º período de Ciência da Computação na PUC-Minas. Estou animado para explorar o mundo da programação e em busca de um estágio onde eu possa aprender, crescer e contribuir para projetos inovadores que façam a diferença. 🚀
 
 ---
 
 ## Sobre mim
 
-🔭 Estudante de Ciência da Computação (1º período) na PUC-MG. <br>
-🌱 Estudando: Java, PHP e Python. <br>
-👯 Em busca de: Um estágio para evoluir e agregar valor a projetos de tecnologia. <br>
+🔭 Estudante de Ciência da Computação (1º período) na PUC-Minas. <br>
+🌱 Estudando: C++, Java, JavaScript, PHP e Python. <br>
 📕 Idiomas: Português (nativo) e Inglês (fluente). <br>
 💡 Interesses: Desenvolvimento web, machine learning e novos desafios em programação. <br>
 
