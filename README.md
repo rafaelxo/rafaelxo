@@ -5,7 +5,7 @@
 [![Rafael Xavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true)](https://github.com/rafaelxo/)
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=joaoclemos&theme=radical&bg_color=0d1117&row=2&no-bg=true&column=3&color=ff79c6&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rafaelxo&theme=radical&bg_color=0d1117&row=2&no-bg=true&column=3&color=ff79c6&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
