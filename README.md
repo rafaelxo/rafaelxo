@@ -20,6 +20,7 @@
 </div>
 
 <br>
+<br>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=rafaelxo&color=67cb57" alt="Profile views" />
@@ -32,19 +33,11 @@
 
 ### 👨🏻‍💻 &nbsp;Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,php,python,django,typescript,prisma,c,cpp,cs)](https://github.com/rafaelxo)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,php,python,typescript,c,cpp,cs)](https://github.com/rafaelxo)
 
 ### 🎨 &nbsp;Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass)](https://github.com/rafaelxo)
-
-### 🗃️ &nbsp;Database
-
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase)](https://github.com/rafaelxo)
-
-### 📱 &nbsp;Mobile
-
-[![Mobile Development Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://github.com/rafaelxo)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,,jquery,bootstrap)](https://github.com/rafaelxo)
 
 <br>
 
