@@ -1,48 +1,52 @@
-# 👋 Olá! Sou Rafael Xavier Oliveira:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
 
-um entusiasta de tecnologia e programação, atualmente cursando o 1º período de Ciência da Computação na PUC-Minas. Estou animado para explorar o mundo da programação e em busca de um estágio onde eu possa aprender, crescer e contribuir para projetos inovadores que façam a diferença. 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Artur+Bomtempo;I'm+a+Software+Engineering+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
----
+[![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo-dev&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/rafaelxo-dev/)
 
-## Sobre mim
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=rafaelxo-dev&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
+</p>
 
-🔭 Estudante de Ciência da Computação (1º período) na PUC-Minas. <br>
-🌱 Estudando: C++, Java, JavaScript, PHP e Python. <br>
-📕 Idiomas: Português (nativo) e Inglês (fluente). <br>
-💡 Interesses: Desenvolvimento web, machine learning e novos desafios em programação. <br>
-
----
-
-## 📊 Minhas estatísticas no GitHub
-
-<div align="center" style="display: flex; gap: 20px;">
-  <a href="https://github.com/faelxo">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelxo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&langs_count=6&theme=radical&hide=procfile"/>
-  </a>
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelxo-dev&show_icons=true&count_private=true&hide_border=true&title_color=67cb57&icon_color=67cb57&text_color=c9d1d9&bg_color=0d1117" alt="Artur Bomtempo github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxo-dev&layout=compact&hide_border=true&title_color=67cb57&text_color=67cb57&bg_color=0d1117" />
 </div>
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-Estou familiarizado com as seguintes linguagens e ferramentas:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Rafael-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafael-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafael-JSON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg">
+<div align="center"> 
+    <a href = "mailto:arturbcolen@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+    <a href = "https://www.instagram.com/rafaelxo.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/artur-bomtempo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
+    <a href="https://medium.com/@arturbcolen" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Medium-67cb57?style=for-the-badge&logo=medium&logoColor=fff" target="_blank"></a>
 </div>
 
----
+<br>
 
-## 📬 Conecte-se comigo
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=rafaelxo-dev&color=67cb57" alt="Profile views" />
+</div>
 
-Fique à vontade para me contatar ou acompanhar meu trabalho nas redes sociais abaixo. Vamos colaborar em projetos incríveis! 😊
+<br>
+<br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faelxg)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelxo2007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelxo/)
+## 🛠 &nbsp;Languages & Techs
+
+### 👨🏻‍💻 &nbsp;Back-end
+
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,php,python,django,typescript,prisma,c,cpp,cs)](https://github.com/rafaelxo-dev)
+
+### 🎨 &nbsp;Front-end
+
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass)](https://github.com/rafaelxo-dev)
+
+### 🗃️ &nbsp;Database
+
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase)](https://github.com/rafaelxo-dev)
+
+### 📱 &nbsp;Mobile
+
+[![Mobile Development Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://github.com/rafaelxo-dev)
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
