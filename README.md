@@ -5,7 +5,7 @@
 [![Rafael Xavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true)](https://github.com/rafaelxo/)
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rafaelxo&text-color=4169e1&row=2&no-bg=true&column=3&color=4169e1&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=joaoclemos&theme=radical&bg_color=0d1117&row=2&no-bg=true&column=3&color=ff79c6&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -16,9 +16,9 @@
 <br>
 
 <div align="center"> 
-    <a href = "mailto:rafaelxo2007n@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-4169e1?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-    <a href = "https://www.instagram.com/faelxg/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-4169e1?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/rafaelxo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-4169e1?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
+    <a href = "mailto:rafaelxo2007n@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+    <a href = "https://www.instagram.com/faelxg/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rafaelxo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
 </div>
 
 <br>
