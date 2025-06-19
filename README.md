@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rafael+Xavier;I'm+a+Computer+Scientist+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rafael+Xavier;I'm+a+Computer+Science+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Rafael Xavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true)](https://github.com/rafaelxo/)
 
@@ -30,15 +30,15 @@
 <br>
 <br>
 
-## 🛠 &nbsp;Languages & Techs
+## 🛠 &nbsp;Techs & Specialties
 
-### 👨🏻‍💻 &nbsp;Back-end
+### 👨🏻‍💻 &nbsp;Languages
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,php,python,typescript,c,cpp,cs)](https://github.com/rafaelxo)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=java,php,python,typescript,c,cpp,cs)](https://github.com/rafaelxo)
 
-### 🎨 &nbsp;Front-end
+### 🎨 &nbsp;Web Development
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap)](https://github.com/rafaelxo)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,jquery,bootstrap)](https://github.com/rafaelxo)
 
 <br>
 
