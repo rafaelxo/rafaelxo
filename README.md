@@ -34,11 +34,11 @@
 
 ### 👨🏻‍💻 &nbsp;Languages
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=java,php,python,typescript,c,cpp,cs)](https://github.com/rafaelxo)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,php,python,typescript)](https://github.com/rafaelxo)
 
 ### 🎨 &nbsp;Web Development
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,jquery,bootstrap)](https://github.com/rafaelxo)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,react,express)](https://github.com/rafaelxo)
 
 <br>
 
