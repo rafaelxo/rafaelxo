@@ -38,7 +38,7 @@
 
 ### 🎨 &nbsp;Web Development
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,react,express)](https://github.com/rafaelxo)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,sql,react,express)](https://github.com/rafaelxo)
 
 <br>
 
