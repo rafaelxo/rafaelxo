@@ -34,17 +34,17 @@
 
 ### 👨🏻‍💻 &nbsp;Languages
 <p align="left">
-  <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java,php,python,typescript)](https://github.com/rafaelxo)" />
+  <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java,php,python,typescript" />
 </p>
 
 ### 🎨 &nbsp;Web Development
 <p align="left">
-  <img src= "https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,react,express))](https://github.com/rafaelxo" />
+  <img src= "https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,postgres,mysql,nodejs,react,express" />
 </p>
 
 ### 🛠️ &nbsp;Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
 <br>
