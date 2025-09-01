@@ -40,6 +40,11 @@
 
 [![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,react,express)](https://github.com/rafaelxo)
 
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,docker" />
+</p>
+
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
