@@ -42,7 +42,7 @@
   <img src= "https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,react,express))](https://github.com/rafaelxo" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ &nbsp;Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,docker" />
 </p>
