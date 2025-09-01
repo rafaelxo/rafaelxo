@@ -33,12 +33,14 @@
 ## 🛠 &nbsp;Techs & Specialties
 
 ### 👨🏻‍💻 &nbsp;Languages
-
-[![Back-end Development Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,php,python,typescript)](https://github.com/rafaelxo)
+<p align="left">
+  <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java,php,python,typescript)](https://github.com/rafaelxo)" />
+</p>
 
 ### 🎨 &nbsp;Web Development
-
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,react,express)](https://github.com/rafaelxo)
+<p align="left">
+  <img src= "https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,react,express))](https://github.com/rafaelxo" />
+</p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
