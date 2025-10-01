@@ -39,7 +39,7 @@
 
 ### 🎨 &nbsp;Web Development
 <p align="left">
-  <img src= "https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nodejs,postgres,mysql" />
+  <img src= "https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,postgres" />
 </p>
 
 ### 🛠️ &nbsp;Tools & Platforms
