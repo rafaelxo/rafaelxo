@@ -34,18 +34,24 @@
 
 ### 👨🏻‍💻 &nbsp;Languages
 <p align="left">
-  <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
+  <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java,python,kotlin" />
 </p>
 
 ### 🎨 &nbsp;Web Development
 <p align="left">
-  <img src= "https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nodejs,postgres" />
+  <img src= "https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,nodejs,react,postgres" />
 </p>
+
+### ☁️ &nbsp;DevOps & Cloud
+<p align="left"> <img src="https://skillicons.dev/icons?i=aws,azure,vercel" /> </p>
 
 ### 🛠️ &nbsp;Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,bash" />
 </p>
+
+### 🧠 &nbsp;Other Skills
+<p align="left"> <img src="https://skillicons.dev/icons?i=figma,blender,arduino" /> </p>
 
 <br>
 
