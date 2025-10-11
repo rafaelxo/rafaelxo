@@ -47,7 +47,7 @@
 
 ### 🛠️ &nbsp;Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,bash,powershell,terminal,discord" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,bash,powershell" />
 </p>
 
 ### 🧠 &nbsp;Other Skills
