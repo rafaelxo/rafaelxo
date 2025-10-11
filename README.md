@@ -39,7 +39,7 @@
 
 ### 🎨 &nbsp;Web Development
 <p align="left">
-  <img src= "https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,nodejs,react,postgres" />
+  <img src= "https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,nodejs,react,postgres,mysql" />
 </p>
 
 ### ☁️ &nbsp;DevOps & Cloud
@@ -47,11 +47,11 @@
 
 ### 🛠️ &nbsp;Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,bash,powershell,terminal,discord" />
 </p>
 
 ### 🧠 &nbsp;Other Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=figma,blender,arduino" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=figma,arduino" /> </p>
 
 <br>
 
