@@ -38,7 +38,7 @@
 
 ### 👨🏻‍💻 &nbsp;Languages
 <p align="left">
-  <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java,python,kotlin" />
+  <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,kotlin" />
 </p>
 
 ### 🎨 &nbsp;Web Development
