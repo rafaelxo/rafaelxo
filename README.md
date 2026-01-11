@@ -43,7 +43,7 @@
 
 ### 🌐 &nbsp;Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs" />
 </p>
 
 ### ⚙️ &nbsp;Backend Development
@@ -58,7 +58,7 @@
 
 ### ☁️ &nbsp;Databases, Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,aws,azure,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,aws,azure,,vercel" />
 </p>
 
 <br>
