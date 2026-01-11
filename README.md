@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel. app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117" alt="Rafael Xavier github stats" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel. app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117"/> 
     <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117" />
 </div>
 
@@ -22,7 +22,7 @@
 <div align="center"> 
     <a href = "mailto:rafaelxo2007n@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
     <a href = "https://www.instagram.com/faelxg/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/rafaelxo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
+    <a href = "https://www.linkedin.com/in/rafaelxo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
 </div>
 
 <br>
@@ -58,7 +58,7 @@
 
 ### ☁️ &nbsp;Databases, Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,aws,azure,,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,aws,azure,docker,vercel" />
 </p>
 
 <br>
