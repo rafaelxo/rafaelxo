@@ -48,17 +48,17 @@
 
 ### ⚙️ &nbsp;Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,dotnet,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,fastapi" />
 </p>
 
 ### 🛠️ &nbsp;Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github,gitlab,postman,linux,ubuntu,windows,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github,gitlab,postman,linux,windows,bash,powershell" />
 </p>
 
 ### ☁️ &nbsp;Databases, Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,aws,azure,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,azure,aws" />
 </p>
 
 <br>
