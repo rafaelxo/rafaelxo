@@ -58,7 +58,7 @@
 
 ### ☁️ &nbsp;Databases, Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,azure,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws" />
 </p>
 
 <br>
