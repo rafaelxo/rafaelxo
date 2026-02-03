@@ -38,7 +38,7 @@
 
 ### 💻 &nbsp;Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php,dart" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript,php,dart" />
 </p>
 
 ### 🌐 &nbsp;Frontend Development
