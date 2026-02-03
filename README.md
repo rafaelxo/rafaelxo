@@ -38,12 +38,12 @@
 
 ### 💻 &nbsp;Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript,php,dart" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php,dart" />
 </p>
 
 ### 🌐 &nbsp;Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,bootstrap,css,sass,tailwind,react,nextjs" />
 </p>
 
 ### ⚙️ &nbsp;Backend Development
