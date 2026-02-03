@@ -9,8 +9,8 @@
 </p>
 
 <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117"/> 
-    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117"/> 
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117"/>
 </div>
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 ### 🌐 &nbsp;Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,bootstrap,reactmcss,sass,tailwind,js,ts,nextjs"/>
+  <img src="https://skillicons.dev/icons?i=html,bootstrap,react,css,sass,tailwind,js,ts,nextjs"/>
 </p>
 
 ### ⚙️ &nbsp;Backend Development
