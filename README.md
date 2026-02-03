@@ -2,64 +2,59 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rafael+Xavier;I'm+a+Computer+Science+student;I'm+a+technology+enthusiast;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-[![Rafael Xavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rafael Xavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true&cache_seconds=86400)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafaelxo&theme=tokyonight&margin-w=15&margin-h=15&bg_color=0d1117"/>
 </p>
 
 <div align="center">  
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117"/> 
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117&cache_seconds=86400"/> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelxo&theme=dark&hide_border=true&background=0d1117&stroke=4169e1&ring=4169e1&fire=4169e1&currStreakLabel=4169e1" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelxo&theme=dark&hide_border=true&background=0d1117&stroke=4169e1&ring=4169e1&fire=4169e1&currStreakLabel=4169e1"/>
 </div>
 
 <br>
 
 <div align="center"> 
-    <a href = "mailto:rafaelxo2007n@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-    <a href = "https://www.instagram.com/faelxg/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-    <a href = "https://www.linkedin.com/in/rafaelxo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
+  <a href="mailto:rafaelxo2007n@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff">
+  </a>
+  <a href="https://www.instagram.com/faelxg/">
+    <img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff">
+  </a>
+  <a href="https://www.linkedin.com/in/rafaelxo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff">
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rafaelxo&color=4169e1" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rafaelxo&color=4169e1" alt="Profile views" />
 </div>
 
-<br>
-<br>
+<br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 Tech Stack
 
-### 💻 &nbsp;Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,dart"/>
-</p>
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,dart"/>
 
-### 🌐 &nbsp;Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,bootstrap,react,css,sass,tailwind,js,ts,nextjs"/>
-</p>
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,sass,tailwind,js,ts,nextjs"/>
 
-### ⚙️ &nbsp;Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,fastapi"/>
-</p>
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,fastapi"/>
 
-### 🛠️ &nbsp;Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github,gitlab,postman,linux,windows,bash,powershell"/>
-</p>
+### 🛠 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github,gitlab,postman,linux,windows,bash,powershell"/>
 
-### ☁️ &nbsp;Databases, Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws"/>
-</p>
+### ☁️ Databases, Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws"/>
 
 <br>
 
