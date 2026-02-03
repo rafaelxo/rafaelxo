@@ -38,27 +38,27 @@
 
 ### 💻 &nbsp;Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,dart" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,dart"/>
 </p>
 
 ### 🌐 &nbsp;Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,bootstrap,reactmcss,sass,tailwind,js,ts,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,bootstrap,reactmcss,sass,tailwind,js,ts,nextjs"/>
 </p>
 
 ### ⚙️ &nbsp;Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,fastapi"/>
 </p>
 
 ### 🛠️ &nbsp;Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github,gitlab,postman,linux,windows,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github,gitlab,postman,linux,windows,bash,powershell"/>
 </p>
 
 ### ☁️ &nbsp;Databases, Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws"/>
 </p>
 
 <br>
