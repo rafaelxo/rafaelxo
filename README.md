@@ -10,20 +10,20 @@
   <img src="https://github-profile-trophy-nu.vercel.app/?username=rafaelxo&theme=tokyonight&column=8&margin-w=15&margin-h=15&bg_color=0d1117&rank=SECRET,SSS,SS,S,AAA,AA,A,B,?"/>
 </p>
 
-<table align="center" width="100%" style="border-collapse: collapse; border-spacing: 0;">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://status-blush-xi.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117" height="195px" />
+      <img src="https://status-blush-xi.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117" height="195px"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://status-blush-xi.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117" height="195px" />
+      <img src="https://status-blush-xi.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117" height="195px"/>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats-two.vercel.app/?user=rafaelxo&theme=tokyonight&background=0d1117&hide_border=true"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats-two.vercel.app/?user=rafaelxo&theme=tokyonight&background=0d1117&hide_border=true" width="100%" />
+</p>
 
 <br>
 
