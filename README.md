@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats-two.vercel.app/?user=rafaelxo&theme=tokyonight&background=0d1117&hide_border=true"/>
+  <img width="50%" src="https://github-readme-streak-stats-two.vercel.app/?user=rafaelxo&theme=tokyonight&background=0d1117&hide_border=true"/>
 </div>
 
 <br>
