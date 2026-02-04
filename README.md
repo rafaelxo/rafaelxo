@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=rafaelxo&theme=dark&hide_border=true&background=0d1117&stroke=4169e1&ring=4169e1&fire=4169e1&currStreakLabel=4169e1"/>
+  <img width="50%" src="https://streak-stats.demolab.com/?user=rafaelxo&theme=dark&hide_border=true&background=0d1117&stroke=4169e1&ring=4169e1&fire=4169e1&currStreakLabel=4169e1"/>
 </div>
 
 <br>
