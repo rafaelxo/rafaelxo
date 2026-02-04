@@ -39,21 +39,11 @@
   </a>
 </div>
 
-<br>
-
-<p align="left">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=rafaelxo&theme=tokyonight&column=8&margin-w=15&margin-h=15&bg_color=0d1117&rank=SECRET,SSS,SS,S,AAA,AA,A,B,?" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/faelxg/"><img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff"></a>
-  <a href="mailto:rafaelxo2007n@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff"></a>
-  <a href="https://www.linkedin.com/in/rafaelxo/"><img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaelxo&color=4169e1" alt="Profile views" />
 </p>
+
+<br>
 
 <br><br>
 
