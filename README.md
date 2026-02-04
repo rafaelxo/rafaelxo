@@ -39,6 +39,8 @@
   </a>
 </div>
 
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaelxo&color=4169e1" alt="Profile views" />
 </p>
