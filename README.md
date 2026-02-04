@@ -13,16 +13,16 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://status-blush-xi.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117" height="195px"/>
+      <img src="https://status-blush-xi.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117" height="200px"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://status-blush-xi.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117" height="195px"/>
+      <img src="https://status-blush-xi.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117" height="200px"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-two.vercel.app/?user=rafaelxo&theme=tokyonight&background=0d1117&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats-two.vercel.app/?user=rafaelxo&theme=tokyonight&background=0d1117&hide_border=true" width="50%" />
 </p>
 
 <br>
