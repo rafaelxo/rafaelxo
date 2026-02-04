@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rafael+Xavier;Computer+Science+Student;Technology+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true" width="100%" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rafael+Xavier;I'm+a+Computer+Science+student;I'm+a+technology+enthusiast;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 [![Rafael Xavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
