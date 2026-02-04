@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rafael+Xavier;I'm+a+Computer+Science+student;I'm+a+technology+enthusiast;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-[![Rafael Xavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true&cache_seconds=86400)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rafael Xavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafaelxo&theme=tokyonight&margin-w=15&margin-h=15&bg_color=0d1117"/>
 </p>
 
 <div align="center">  
-  <img width="49%" src="https://status-blush-xi.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117&cache_seconds=86400"/> 
-  <img width="49%" src="https://status-blush-xi.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117&cache_seconds=86400"/>
+  <img width="49%" height="200px" src="https://status-blush-xi.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117"/> 
+  <img width="49%" height="200px" src="https://status-blush-xi.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117"/>
 </div>
 
 <div align="center">
