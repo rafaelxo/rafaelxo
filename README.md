@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rafaelxo/rafaelxo/main/generated/streak.svg"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelxo&theme=tokyonight&background=0d1117&fire=4169e1&ring=4169e1&stroke=4169e1&hide_border=true"/>
 </div>
 
 <br>
