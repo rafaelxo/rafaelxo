@@ -9,12 +9,12 @@
 </p>
 
 <div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117&cache_seconds=86400"/> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117&cache_seconds=86400"/>
+  <img width="49%" src="https://status-blush-xi.vercel.app/api?username=rafaelxo&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=fff&bg_color=0d1117&cache_seconds=86400"/> 
+  <img width="49%" src="https://status-blush-xi.vercel.app/api/top-langs/?username=rafaelxo&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelxo&theme=dark&hide_border=true&background=0d1117&stroke=4169e1&ring=4169e1&fire=4169e1&currStreakLabel=4169e1"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=rafaelxo&theme=dark&hide_border=true&background=0d1117&stroke=4169e1&ring=4169e1&fire=4169e1&currStreakLabel=4169e1"/>
 </div>
 
 <br>
