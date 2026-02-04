@@ -1,4 +1,4 @@
-<img width="1454" height="946" alt="image" src="https://github.com/user-attachments/assets/d19c4ece-5c21-41c8-bf53-c4f5aca6ac69" /><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rafael+Xavier;I'm+a+Computer+Science+student;I'm+a+technology+enthusiast;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
