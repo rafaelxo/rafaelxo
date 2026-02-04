@@ -25,8 +25,6 @@
   <img src="https://github-readme-streak-stats-two.vercel.app/?user=rafaelxo&theme=tokyonight&background=0d1117&hide_border=true" width="50%" />
 </p>
 
-<br>
-
 <div align="center"> 
   <a href="mailto:rafaelxo2007n@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff">
