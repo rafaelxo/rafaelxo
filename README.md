@@ -45,7 +45,7 @@
   <img src="https://komarev.com/ghpvc/?username=rafaelxo&color=4169e1" alt="Profile views" />
 </p>
 
-<br><br>
+<br>
 
 ## 🛠 Tech Stack
 
