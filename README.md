@@ -56,10 +56,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,sass,tailwind,js,ts,nextjs"/>
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,npm,node,express,spring,dotnet,fastapi"/>
 
 ### 🛠 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,git,github,gitlab,postman,linux,windows,bash,powershell"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim,nvim,git,github,gitlab,postman,linux,windows,bash,powershell"/>
 
 ### ☁️ Databases, Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws"/>
