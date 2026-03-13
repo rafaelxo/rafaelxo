@@ -8,9 +8,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=rafaelxo&theme=tokyonight&column=8&margin-w=15&margin-h=15&bg_color=0d1117&rank=SECRET,SSS,SS,S,AAA,AA,A,B,?"/>
-</p>
 
 <table align="center" width="100%">
   <tr>
@@ -25,24 +22,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-two.vercel.app/?user=rafaelxo&theme=tokyonight&background=0d1117&hide_border=true" width="50%" />
-</p>
-
-<div align="center"> 
-  <a href="mailto:rafaelxo2007n@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff">
-  </a>
-  <a href="https://www.instagram.com/faelxg/">
-    <img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff">
-  </a>
-  <a href="https://www.linkedin.com/in/rafaelxo/">
-    <img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff">
-  </a>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafaelxo&color=4169e1" alt="Profile views" />
 </p>
 
 <br>
