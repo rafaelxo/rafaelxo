@@ -20,10 +20,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-two.vercel.app/?user=rafaelxo&theme=tokyonight&background=0d1117&hide_border=true" width="50%" />
-</p>
-
 <br>
 
 ## 🛠 Tech Stack
