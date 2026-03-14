@@ -25,7 +25,7 @@
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,python"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,golang"/>
 
 ### 🌐 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,sass,tailwind,js,ts,nextjs"/>
