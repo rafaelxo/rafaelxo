@@ -33,9 +33,6 @@
 ### ⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,npm,express,spring,dotnet,fastapi"/>
 
-### 🛠 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman,bash"/>
-
 ### ☁️ Databases, Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws"/>
 
