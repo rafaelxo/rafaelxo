@@ -25,13 +25,13 @@
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,golang,java,cs"/>
+<img src="https://skillicons.dev/icons?i=golang,java,python"/>
 
 ### 🌐 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,ts,js"/>
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,npm,express,spring,dotnet,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,npm,express,spring,fastapi"/>
 
 ### ☁️ Databases, Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws"/>
