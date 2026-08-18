@@ -34,6 +34,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs,npm,express,spring,fastapi"/>
 
 ### ☁️ Databases, Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws"/>
+<img src="https://skillicons.dev/icons?i=docker,mysql,postgresql,azure,aws"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
