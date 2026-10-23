@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rafael+Xavier;Computer+Scientist;Technology+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelxo&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true" width="100%" />
-</p>
-
-
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
