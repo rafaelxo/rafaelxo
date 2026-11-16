@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,ts,js,python"/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,dart"/>
 
 ### 🌐 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass"/>
